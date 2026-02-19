@@ -1,4 +1,5 @@
 ## Project Description
+After much frustration with Logitec MX keyboard when moving to windows I've had enough
 Added Mac options keys so you can convert the command and options keys 
 I'm using it to the left side only since doing both left and right got windows confused , you can experiment
 

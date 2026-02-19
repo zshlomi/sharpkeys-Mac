@@ -252,7 +252,7 @@ namespace SharpKeys
 
         public bool PreFilterMessage(ref Message m)
         {
-            if (m.Msg == 0x100) //0x100 == WM_KEYDOWN
+            if (m.Msg == 0x100 || m.Msg == 0x104) //0x100 == WM_KEYDOWN, 0x104 == WM_SYSKEYDOWN
                 ShowKeyCode((int)m.LParam);
             // always return false because we're just watching messages; not
             // trapping them - this message comes from IMessageFilter!

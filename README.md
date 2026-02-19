@@ -7,3 +7,4 @@ I'm using it to the left side only since doing both left and right got windows c
 SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key. Included in the application is a list of common keyboard keys and a Type Key feature to automatically recognize most keyboard keys. It was originally developed in C# using .NET v2 but has been updated to support .NET 4.0 Client Profile
 
 Please see the OG project page for more info and buy him a beer  https://github.com/randyrants/sharpkeys
+<img width="729" height="415" alt="image" src="https://github.com/user-attachments/assets/f31a9b04-1807-449c-bcdd-5387be9b4f5f" />

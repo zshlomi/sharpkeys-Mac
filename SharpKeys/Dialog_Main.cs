@@ -1177,9 +1177,12 @@ namespace SharpKeys
             m_hashKeys.Add("E0_E2", "Unknown: 0xE0B2"); // Varies by keyboard
             m_hashKeys.Add("E0_E3", "Unknown: 0xE0B3"); // Varies by keyboard
             m_hashKeys.Add("E0_E4", "Unknown: 0xE0B4"); // Varies by keyboard
-                                                        
+
             m_hashKeys.Add("E0_F1", "Special: Hanja Key");
             m_hashKeys.Add("E0_F2", "Special: Hangul Key");
+            
+            m_hashKeys.Add("E0_1F38", "Mac: Options left"); // Mac options 
+            m_hashKeys.Add("E0_2038", "Mac: Options right"); // Mac options 
         }
 
         // Dialog related events and overrides
